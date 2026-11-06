@@ -1,5 +1,5 @@
 
-# Python Basic Calculator
+# Project 1: Python Basic Calculator
 
 A basic graphical calculator developed using Python and Tkinter as part of my undergraduate Applied Computing coursework.
 
