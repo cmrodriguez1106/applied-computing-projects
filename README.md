@@ -1,4 +1,4 @@
-# applied-computing-projects
+# Applied Computing Projects
 
 A repository showcasing my knowledge of various Applied Computing concepts.
 
