@@ -1,5 +1,5 @@
 
-# Python Wrestling Game
+# Project 2: Python Wrestling Game
 
 A wrestling-themed game developed using Python and inspired by the classic Rock, Paper, Scissors game mechanics.
 
