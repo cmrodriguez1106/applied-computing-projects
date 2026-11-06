@@ -7,6 +7,10 @@ A basic graphical calculator developed using Python and Tkinter as part of my un
 
 This project implements a simple calculator with a graphical user interface (GUI), allowing users to perform basic arithmetic operations through an interactive application.
 
+## Screenshot
+
+![Calculator GUI](calculator-image.png)
+
 ## Technologies
 
 - Python
