@@ -7,6 +7,10 @@ A wrestling-themed game developed using Python and inspired by the classic Rock,
 
 This project implements a wrestling-themed game where players compete using a Rock, Paper, Scissors-style system. Player selections determine the outcome of each matchup based on predefined rules.
 
+## Screenshot
+
+![GAME GUI](wrestling-game-image.png)
+
 ## Technologies
 
 - Python
