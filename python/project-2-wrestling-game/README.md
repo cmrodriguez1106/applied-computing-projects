@@ -14,6 +14,8 @@ This project implements a wrestling-themed game where players compete using a Ro
 ## Technologies
 
 - Python
+- Tkinter
+- Canvas
 
 ## Features
 
