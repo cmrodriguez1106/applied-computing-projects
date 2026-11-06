@@ -27,7 +27,7 @@ This project implements a wrestling-themed game where players compete using a Ro
 4. Run the game:
 
    ```bash
-   python wrestling_game.py
+   python superstar-smash.py
    ```
 
 ## Academic Context
